@@ -2,6 +2,8 @@
 
 Step-by-step AES-128 encryption in plain HTML, CSS and JavaScript. Enter a plaintext and key, then step through all 10 rounds and watch the state change.
 
+**Currently in the framework state**
+
 <p align="center">
   <img src="Preview.png" width="1018" alt="AES-128 Visualiser preview">
 </p>
